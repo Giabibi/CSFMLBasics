@@ -29,11 +29,12 @@ int workshop()
 _(Don't forget to destroy the sprite)_
 <br/><br/>
 _Utils functions:_
-- sfRenderTexture_create
-- sfRenderTexture_loadFromFile
-- sfSprite_create
-- sfRenderTexture_destroy
-- sfSprite_destroy
+- sfText_create
+- sfFont_createFromFile
+- sfText_setFont
+- sfText_setString
+- sfText_setColor
+- sfText_setPosition
 
 <br/>
 

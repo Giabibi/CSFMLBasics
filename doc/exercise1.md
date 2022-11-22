@@ -33,7 +33,7 @@ bool is_error(int argc, const char *const *argv, const char *const *env)
   // Check if there is DISPLAY variable in 'env'
 }
 ```
-_It is now up to you to see if the variable exists._
+_It's now up to you to see if the variable exists._
 <br/><br/>
 _Utils functions:_
 - strncmp

@@ -27,10 +27,12 @@ int workshop()
 _(Don't forget to destroy the sprite)_
 <br/><br/>
 _Utils functions:_
-- sfRenderTexture_create
-- sfRenderTexture_loadFromFile
+- sfTexture_createFromFile
 - sfSprite_create
-- sfRenderTexture_destroy
+- sfSprite_setTexture
+- sfSprite_setPosition
+- sfSprite_getTexture
+- sfTexture_destroy
 - sfSprite_destroy
 
 <br/>
