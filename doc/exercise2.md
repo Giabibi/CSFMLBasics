@@ -42,4 +42,4 @@ _Utils functions:_
 
 <br/>
 
-If the trainers validate your code, go to [Exercise 3](./doc/exercise3.md)
+If the trainers validate your code, go to [Exercise 3](./exercise3.md)
