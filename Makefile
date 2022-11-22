@@ -5,12 +5,12 @@
 ## Makefile for project named: workshop
 ##
 
-SRC				=		analyse_event.c	\
-						error.c			\
-						main.c 			\
-						sprite.c		\
-						text.c			\
-						window.c		\
+SRC				=		error.c				\
+						event_handling.c	\
+						main.c 				\
+						sprite.c			\
+						text.c				\
+						window.c			\
 						workshop.c
 
 DIR_SRC 		= 		$(addprefix src/, $(SRC))

@@ -6,8 +6,9 @@
 */
 
 #include "workshop.h"
+#include "macro.h"
 
 int workshop()
 {
-    // Loop function
+    // The main loop
 }

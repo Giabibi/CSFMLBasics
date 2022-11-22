@@ -10,5 +10,5 @@
 
 sfSprite *create_sprite(const char *filepath, sfVector2f position)
 {
-    // Create a sprite and return it
+    // Create a sfSprite and return a pointer of it
 }

@@ -10,5 +10,5 @@
 
 sfRenderWindow *create_window(const char *name, sfVector2i dimensions)
 {
-    // Create window and return it.
+    // Create a sfRenderWindow and return a pointer of it
 }

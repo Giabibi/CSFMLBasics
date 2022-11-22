@@ -9,5 +9,5 @@
 
 int main(int argc, const char *const *argv, const char *const *env)
 {
-    // Main function
+    // The main of the project
 }

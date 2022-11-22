@@ -7,8 +7,10 @@
 
 #include <SFML/Window.h>
 #include <SFML/Graphics.h>
+#include <string.h>
+#include "macro.h"
 
 sfText *create_text(const char *content, sfColor color, sfVector2f position)
 {
-    // Create a text and return it
+    // Create a sfText and return a pointer of it
 }

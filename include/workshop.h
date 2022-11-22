@@ -16,9 +16,8 @@
  * @brief Events handling
  *
  * @param window Events from this window
- * @param event Events to analyze
  */
-void analyse_event(sfRenderWindow *window, sfEvent event);
+void event_handling(sfRenderWindow *window);
 
 /**
  * @brief Check if the program can be executed
@@ -65,4 +64,4 @@ sfSprite *create_sprite(const char *filepath, sfVector2f position);
  */
 sfText *create_text(const char *content, sfColor color, sfVector2f position);
 
-#endif
+#endif // WORKSHOP_H_
