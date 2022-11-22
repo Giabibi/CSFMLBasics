@@ -40,3 +40,5 @@ _Utils functions:_
 _**Well done !**_
 <br/>
 _**You have finished the workshop named CSFMLBasics !**_
+
+If the trainers validate your code, you can go to the next workshop: [MapCSFML](https://github.com/Giabibi/WorkshopMapCSFML)
