@@ -15,4 +15,4 @@ _Don't worry, it's normal if you don't finish._
 
 <br/>
 
-If the trainers validate your code, go to [Exercise 1](./exercise1.md)
+If the trainers validate your code, go to [Exercise 1](./doc/exercise1.md)
